@@ -21,7 +21,7 @@ const questions = [
         },
         {
             type: 'input',
-            message: 'Provide instructions and examples for use. Include screenshots as needed.',
+            message: 'Usage: Provide instructions and examples for use. Include screenshots as needed in README.md.',
             name: 'usage',
         },
         {
@@ -30,9 +30,8 @@ const questions = [
             name: 'credits',
         },
         {
-            type: 'list',
-            message: 'Choose a license.',
-            choices: ['MIT'],
+            type: 'input',
+            message: 'What license do you have? (github)',
             name: 'license',
         },
         {

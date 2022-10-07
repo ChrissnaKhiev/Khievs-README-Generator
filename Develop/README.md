@@ -1,6 +1,6 @@
-# s 
+# k 
   ## Description
-  s
+  k
   ## Table of Contents
   - [Installation](#installation)
 
@@ -19,18 +19,19 @@
   - [Tests](#tests)
 
   ## Installation
-  s
+  k
   ## Usage
-  
+  k
   ## Credits
-  s
+  k
   ## License
-  MIT
-  ## Badges
-  s
-  ## Features
   
+  ## Badges
+  ![Khievs-README-Generator](https://img.shields.io/github/languages/count/ChrissnaKhiev/Khievs-README-Generator?style=plastic)
+  ![Khievs-README-Generator](https://img.shields.io/github/languages/top/ChrissnaKhiev/Khievs-README-Generator?style=plastic)
+  ## Features
+  j
   ## Contribute
-  s
+  j
   ## Tests
-  s
+  j
