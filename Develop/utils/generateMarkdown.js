@@ -38,6 +38,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.installation}
   ## Usage
+  [https://github.com/${data.user}/${data.repo}](https://github.com/${data.user}/${data.repo})
   ${data.usage}
   ## Credits
   ${data.credits}
