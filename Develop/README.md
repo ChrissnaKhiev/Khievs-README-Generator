@@ -1,4 +1,4 @@
-# Khievs-README-Generator  
+# Khievs-README-Generator 
   ## Description
   This is an application that takes the user's inputs and puts them into a professional readme format. This was needed to automate the formating of the readme and add a more professional look for the user for their application. I built this to help me and others who would like an easy to use readme generator.
   ## Table of Contents
@@ -21,8 +21,11 @@
   ## Installation
   There is no installation required. You can use this application by running "node index.js in the appropriate terminal.
   ## Usage
-  [https://github.com/ChrissnaKhiev/Khievs-README-Generator](https://github.com/ChrissnaKhiev/Khievs-README-Generator)
+  [Github](https://github.com/ChrissnaKhiev/Khievs-README-Generator)
+
   Input into the appropriate terminal(tested on gitbash) "node index.js". Then follow the prompts from the terminal.
+
+  ![READMEGENERATOR](../Assets/screenshot.png)
   ## Credits
   None.
   ## License
