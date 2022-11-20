@@ -25,7 +25,7 @@
 
   Input into the appropriate terminal(tested on gitbash) "node index.js". Then follow the prompts from the terminal.
 
-  ![READMEGENERATOR](../Assets/screenshot.png)
+  ![READMEGENERATOR](./Assets/screenshot.png)
   ## Credits
   None.
   ## License
